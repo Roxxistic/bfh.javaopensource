@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch.bfh.ti.swos.demo.iml" filepath="$PROJECT_DIR$/ch.bfh.ti.swos.demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch.bfh.ti.swos.demo.domain/ch.bfh.ti.swos.demo.domain.iml" filepath="$PROJECT_DIR$/ch.bfh.ti.swos.demo.domain/ch.bfh.ti.swos.demo.domain.iml" />
+    </modules>
+  </component>
+</project>
